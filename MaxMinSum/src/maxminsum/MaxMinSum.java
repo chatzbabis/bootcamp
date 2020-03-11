@@ -42,7 +42,7 @@ public class MaxMinSum {
         int min = Math.min(min1, min2);
         double average = sum / 4;
 
-        System.out.println(" the max: " + max + " the min: " + min + " the average is: " + average);
+        System.out.println(" GIT :the max: " + max + " the min: " + min + " the average is: " + average);
     }
 
 }
